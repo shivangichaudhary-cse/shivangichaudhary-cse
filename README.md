@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**shivangichaudhary-cse/shivangichaudhary-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Hey there, I'm Souya 👋🏻</h2>
 
-Here are some ideas to get you started:
+<p>
+  <a href="https://www.linkedin.com/in/shivangi-chaudhary-0013a0405?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><i>Psst... curious about the person behind the code? Come say hi on LinkedIn! ♡</i></p>
+
+### A little about me
+
+CSE student, curious mind and occasional overthinker.
+Into AI/ML, research, problem-solving and creative things. ✨
+
+### When I code, I rely on
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+</p>
+
+### My GitHub Contributions Summary
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivangichaudhary-cse" alt="GitHub Streak Stats" />
+</p>
+
+### My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivangichaudhary-cse&show_icons=true" alt="GitHub Stats" />
+</p>
