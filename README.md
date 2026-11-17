@@ -1,5 +1,9 @@
 
-<h2>Hey there, I'm Souya 👋🏻</h2>
+<h2>👋 Hi there, I'm Souya!</h2>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=shivangichaudhary-cse&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+</p>
 
 <p>
   <a href="https://www.linkedin.com/in/shivangi-chaudhary-0013a0405/">
@@ -7,7 +11,7 @@
   </a>
 </p>
 
-<p><i>Psst... curious about the person behind the code? Come say hi on LinkedIn! ♡</i></p>
+<p><i>♡ Psst... want to know a little more about me? Click the LinkedIn button!</i></p>
 
 ### A little about me
 
@@ -29,11 +33,11 @@ Into AI/ML, research, technology and creative things. ✨
 ### My GitHub Contributions Summary
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivangichaudhary-cse&background=0D1117&ring=58A6FF&fire=E3B341&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=true" alt="GitHub Contributions and Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivangichaudhary-cse&theme=dark&hide_border=true" alt="GitHub Contributions Summary" />
 </p>
 
 ### My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivangichaudhary-cse&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivangichaudhary-cse&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
