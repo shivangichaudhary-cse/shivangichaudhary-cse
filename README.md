@@ -36,11 +36,10 @@
 </p>
 
 ---
-
 ### My GitHub contributions summary
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivangichaudhary-cse&theme=dark&ring=e11d48&fire=e11d48&currStreakLabel=e11d48&background=0d1117&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=shivangichaudhary-cse&theme=dark&ring=e11d48&fire=e11d48&currStreakLabel=e11d48&background=0d1117&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="left">
