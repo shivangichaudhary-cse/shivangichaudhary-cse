@@ -43,6 +43,6 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivangichaudhary-cse&show_icons=true&theme=dark&title_color=e11d48&icon_color=e11d48&bg_color=0d1117&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangichaudhary-cse&layout=compact&theme=dark&title_color=e11d48&bg_color=0d1117&hide_border=true" alt="Top languages" />
+  <img src="./profile-summary-card-output/radical/3-stats.svg" width="49%" alt="GitHub stats" />
+  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="49%" alt="Top languages" />
 </p>
