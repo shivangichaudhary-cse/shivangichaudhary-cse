@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi there, I'm Souya!</h2>
+<h2 align="left">👋 Hi there, I'm Shivangi!</h2>
 
 ---
 
