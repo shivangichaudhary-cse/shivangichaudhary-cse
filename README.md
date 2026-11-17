@@ -1,11 +1,9 @@
-
-<h2>Hi there, I'm Shivangi 👋🏻</h2>
-
-<p>
-  <a href="https://www.linkedin.com/in/shivangi-chaudhary-0013a0405/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<h2>
+  Hey there, I'm Shivangi 👋🏻
+  <a href="https://www.linkedin.com/in/shivangi-chaudhary-0013a0405/" target="_blank">
+    <img src="https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white" height="22" />
   </a>
-</p>
+</h2>
 
 <p><i>♡ Psst... want to know a little more about me? Click the LinkedIn button!</i></p>
 
