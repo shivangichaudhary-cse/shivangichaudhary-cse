@@ -1,9 +1,5 @@
 
-<h2>👋 Hi there, I'm Souya!</h2>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=shivangichaudhary-cse&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
-</p>
+<h2>Hi there, I'm Shivangi 👋🏻</h2>
 
 <p>
   <a href="https://www.linkedin.com/in/shivangi-chaudhary-0013a0405/">
