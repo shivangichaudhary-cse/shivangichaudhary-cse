@@ -2,7 +2,7 @@
 <h2>Hey there, I'm Souya 👋🏻</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/shivangi-chaudhary-0013a0405?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  <a href="https://www.linkedin.com/in/shivangi-chaudhary-0013a0405/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -11,8 +11,8 @@
 
 ### A little about me
 
-CSE student, curious mind and occasional overthinker.
-Into AI/ML, research, problem-solving and creative things. ✨
+CSE student with a curious mind and a love for problem-solving.
+Into AI/ML, research, technology and creative things. ✨
 
 ### When I code, I rely on
 
@@ -29,11 +29,11 @@ Into AI/ML, research, problem-solving and creative things. ✨
 ### My GitHub Contributions Summary
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivangichaudhary-cse" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivangichaudhary-cse&background=0D1117&ring=58A6FF&fire=E3B341&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=true" alt="GitHub Contributions and Streak" />
 </p>
 
 ### My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivangichaudhary-cse&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivangichaudhary-cse&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 </p>
