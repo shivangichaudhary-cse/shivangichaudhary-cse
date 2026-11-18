@@ -1,11 +1,13 @@
-## Hi, I'm Shivangi 👋
+<h2>Hi, I'm Shivangi 👋</h2>
+
 First-year CSE (AI/ML) student who likes understanding *why* a model works before
 reaching for the library. Minoring in marketing and research.
 
 - 🔭 Exploring: <your current topic>
 - 🛠️ Building: <one real project>
 - 🎨 Outside code: design, photography, writing
-### When I code, I rely on
+
+<h3>When I code, I rely on</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -24,7 +26,7 @@ reaching for the library. Minoring in marketing and research.
 
 ---
 
-### When you need me, find me on
+<h3>When you need me, find me on</h3>
 
 <p>
   <a href="https://www.linkedin.com/in/shivangi-chaudhary-0013a0405">
@@ -39,7 +41,8 @@ reaching for the library. Minoring in marketing and research.
 </p>
 
 ---
-### My GitHub contributions summary
+
+<h3>My GitHub contributions summary</h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=shivangichaudhary-cse&theme=dark&ring=e11d48&fire=e11d48&currStreakLabel=e11d48&background=0d1117&hide_border=true" alt="GitHub streak" />
