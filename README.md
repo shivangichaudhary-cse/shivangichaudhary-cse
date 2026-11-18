@@ -42,7 +42,7 @@ reaching for the library. Likes marketing, research and cold coffees.
 
 ---
 
-<p align="center"><b>My GitHub contributions summary</b></p>
+<h3> My GitHub contributions summary </h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=shivangichaudhary-cse&theme=dark&ring=e11d48&fire=e11d48&currStreakLabel=e11d48&background=0d1117&hide_border=true" width="100%" alt="GitHub streak" />
