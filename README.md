@@ -1,7 +1,10 @@
-<h2 align="left">👋 Hi there, I'm Shivangi!</h2>
+## Hi, I'm Shivangi 👋
+First-year CSE (AI/ML) student who likes understanding *why* a model works before
+reaching for the library. Minoring in marketing and research.
 
----
-
+- 🔭 Exploring: <your current topic>
+- 🛠️ Building: <one real project>
+- 🎨 Outside code: design, photography, writing
 ### When I code, I rely on
 
 <p>
