@@ -52,3 +52,7 @@ reaching for the library. Minoring in marketing and research.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivangichaudhary-cse&theme=radical" width="49%" alt="GitHub stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivangichaudhary-cse&theme=radical" width="49%" alt="Top languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivangichaudhary-cse&theme=radical" alt="Profile details" />
+</p>
