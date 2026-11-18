@@ -38,9 +38,9 @@ reaching for the library. Likes marketing, research and cold coffees.
   <a href="https://www.hackerrank.com/profile/shivangi_cse">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
   </a>
-  <a href="eng.shivangichaudhary@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
+  <a href="mailto:eng.shivangichaudhary@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
   
 </p>
 
