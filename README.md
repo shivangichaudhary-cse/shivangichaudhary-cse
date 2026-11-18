@@ -32,10 +32,10 @@ reaching for the library. Likes marketing, research and cold coffees.
   <a href="https://www.linkedin.com/in/shivangi-chaudhary-0013a0405">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME">
+  <a href="https://www.kaggle.com/shivangichaudharycse">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME">
+  <a href="https://www.hackerrank.com/profile/shivangi_cse">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
   </a>
 </p>
