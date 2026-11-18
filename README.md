@@ -43,6 +43,6 @@
 </p>
 
 <p align="left">
-  <img src="./profile-summary-card-output/radical/3-stats.svg" width="49%" alt="GitHub stats" />
-  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="49%" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivangichaudhary-cse&theme=radical" width="49%" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivangichaudhary-cse&theme=radical" width="49%" alt="Top languages" />
 </p>
