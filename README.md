@@ -1,7 +1,7 @@
 <h2>Hi, I'm Shivangi 👋</h2>
 
 First-year CSE (AI/ML) student who likes understanding *why* a model works before
-reaching for the library. Minoring in marketing and research.
+reaching for the library. Likes marketing, research and cold coffees.
 
 - 🔭 Exploring: <your current topic>
 - 🛠️ Building: <one real project>
