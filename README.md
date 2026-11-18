@@ -42,17 +42,16 @@ reaching for the library. Likes marketing, research and cold coffees.
 
 ---
 
-<h3>My GitHub contributions summary</h3>
+<p align="center"><b>My GitHub contributions summary</b></p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shivangichaudhary-cse&theme=dark&ring=e11d48&fire=e11d48&currStreakLabel=e11d48&background=0d1117&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivangichaudhary-cse&theme=radical" width="49%" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivangichaudhary-cse&theme=radical" width="49%" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com/?user=shivangichaudhary-cse&theme=dark&ring=e11d48&fire=e11d48&currStreakLabel=e11d48&background=0d1117&hide_border=true" width="100%" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivangichaudhary-cse&theme=radical" alt="Profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivangichaudhary-cse&theme=radical" width="49.5%" alt="GitHub stats" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivangichaudhary-cse&theme=radical" width="49.5%" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivangichaudhary-cse&theme=radical" width="100%" alt="Profile details" />
 </p>
