@@ -58,18 +58,50 @@ First-year CSE (AI/ML) undergraduate who enjoys understanding *why* things work 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivangichaudhary-cse&theme=radical" width="100%" alt="Profile details" />
 </p>
+
+
 ---
 
-### Selected Work
+<h3 align="center">Selected Work</h3>
 
-#### ✈️ [Tour & Travel Management System](https://github.com/shivangichaudhary-cse/Tourism-and-travel-management-system)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">✈️ Tourism & Travel Management System</h3>
+      <p align="center">
+        <a href="https://github.com/shivangichaudhary-cse/Tourism-and-travel-management-system">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View TTMS project" />
+        </a>
+      </p>
+      <p>
+        A Python-based CLI application for managing tour operations,
+        customer records and bookings, with structured data handling
+        and visual analytics.
+      </p>
+      <p>
+        <strong>Tech Stack</strong><br/>
+        Python · OOP · Pandas · NumPy · Matplotlib · Data Structures
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🕵️ Golden Arcs</h3>
+      <p align="center">
+        <a href="https://github.com/shivangichaudhary-cse/Golden-Arcs">
+          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Golden Arcs project" />
+        </a>
+      </p>
+      <p>
+        A text-based detective investigation game built around
+        evidence collection, suspect interviews and dynamic
+        win-condition evaluation.
+      </p>
+      <p>
+        <strong>Tech Stack</strong><br/>
+        Python · OOP · Lambda Functions · Sets & Dictionaries · Function Dispatch
+      </p>
+    </td>
+  </tr>
+</table>
 
-A Python-based CLI application for managing tour operations, customer records and bookings, with structured data handling and visual analytics.
+---
 
-**Tech:** Python · OOP · Pandas · NumPy · Matplotlib · Data Structures
-
-#### 🕵🏻 [Golden Arcs](https://github.com/shivangichaudhary-cse/Golden-Arcs)
-
-A text-based detective investigation game built around evidence collection, suspect interviews and dynamic win-condition evaluation.
-
-**Tech:** Python · OOP · Lambda Functions · Sets & Dictionaries · Function Dispatch
