@@ -58,3 +58,18 @@ First-year CSE (AI/ML) undergraduate who enjoys understanding *why* things work 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivangichaudhary-cse&theme=radical" width="100%" alt="Profile details" />
 </p>
+---
+
+### Selected Work
+
+#### ✈️ [Tour & Travel Management System](https://github.com/shivangichaudhary-cse/Tourism-and-travel-management-system)
+
+A Python-based CLI application for managing tour operations, customer records and bookings, with structured data handling and visual analytics.
+
+**Tech:** Python · OOP · Pandas · NumPy · Matplotlib · Data Structures
+
+#### 🕵🏻 [Golden Arcs](https://github.com/shivangichaudhary-cse/Golden-Arcs)
+
+A text-based detective investigation game built around evidence collection, suspect interviews and dynamic win-condition evaluation.
+
+**Tech:** Python · OOP · Lambda Functions · Sets & Dictionaries · Function Dispatch
