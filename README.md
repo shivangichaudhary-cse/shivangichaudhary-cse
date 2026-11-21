@@ -60,19 +60,15 @@ First-year CSE (AI/ML) undergraduate who enjoys understanding *why* things work 
 </p>
 
 
+
 ---
 
-<h3 align="center">Selected Work</h3>
+### Some of my current projects
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">✈️ Tourism & Travel Management System</h3>
-      <p align="center">
-        <a href="https://github.com/shivangichaudhary-cse/Tourism-and-travel-management-system">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View TTMS project" />
-        </a>
-      </p>
+    <td width="100%" valign="top">
+      <h3>✈️ Tourism & Travel Management System</h3>
       <p>
         A Python-based CLI application for managing tour operations,
         customer records and bookings, with structured data handling
@@ -82,14 +78,14 @@ First-year CSE (AI/ML) undergraduate who enjoys understanding *why* things work 
         <strong>Tech Stack</strong><br/>
         Python · OOP · Pandas · NumPy · Matplotlib · Data Structures
       </p>
+      <a href="https://github.com/shivangichaudhary-cse/Tourism-and-travel-management-system">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View TTMS repository" />
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🕵️ Golden Arcs</h3>
-      <p align="center">
-        <a href="https://github.com/shivangichaudhary-cse/Golden-Arcs">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Golden Arcs project" />
-        </a>
-      </p>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🕵🏻 Golden Arcs</h3>
       <p>
         A text-based detective investigation game built around
         evidence collection, suspect interviews and dynamic
@@ -99,6 +95,9 @@ First-year CSE (AI/ML) undergraduate who enjoys understanding *why* things work 
         <strong>Tech Stack</strong><br/>
         Python · OOP · Lambda Functions · Sets & Dictionaries · Function Dispatch
       </p>
+      <a href="https://github.com/shivangichaudhary-cse/Golden-Arcs">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Golden Arcs repository" />
+      </a>
     </td>
   </tr>
 </table>
