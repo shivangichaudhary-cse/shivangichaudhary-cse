@@ -1,13 +1,13 @@
-<h2>Hi, I'm Shivangi 👋</h2>
 
-First-year CSE (AI/ML) student who likes understanding *why* a model works before
-reaching for the library. Likes marketing, research and cold coffees.
+## Hi, I'm Shivangi 👋
 
-- 🔭 Exploring: <your current topic>
-- 🛠️ Building: <one real project>
-- 🎨 Outside code: design, photography, writing
+First-year CSE (AI/ML) undergraduate who enjoys understanding *why* things work before reaching for the implementation. Interested in AI/ML, research, problem-solving, and the intersection of technology and marketing. Also likes cold coffees.
 
-<h3>When I code, I rely on</h3>
+- 🔭 **Exploring:** Python, Data Structures & Algorithms, Machine Learning fundamentals, and research.
+- 🛠️ **Building:** Programming fundamentals, data-driven applications, and a deeper understanding of computer science.
+- 🎨 **Outside code:** Digital art, graphic design, photography, writing, chess and Sudoku.
+
+### When I code, I rely on
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -26,7 +26,7 @@ reaching for the library. Likes marketing, research and cold coffees.
 
 ---
 
-<h3>When you need me, find me on</h3>
+### When you need me, find me on
 
 <p>
   <a href="https://www.linkedin.com/in/shivangi-chaudhary-0013a0405">
@@ -45,7 +45,7 @@ reaching for the library. Likes marketing, research and cold coffees.
 
 ---
 
-<h3> My GitHub contributions summary </h3>
+### My GitHub contributions summary
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=shivangichaudhary-cse&theme=dark&ring=e11d48&fire=e11d48&currStreakLabel=e11d48&background=0d1117&hide_border=true" width="100%" alt="GitHub streak" />
