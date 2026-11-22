@@ -3,7 +3,7 @@
 
 **Computer Science and Engineering (AI/ML) Undergraduate**
 
-📧 [eng.shivangichaudhary@gmail.com](mailto:eng.shivangichaudhary@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shivangi-chaudhary-0013a0405/) | [GitHub](https://github.com/shivangichaudhary-cse)
+[eng.shivangichaudhary@gmail.com](mailto:eng.shivangichaudhary@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shivangi-chaudhary-0013a0405/) | [GitHub](https://github.com/shivangichaudhary-cse)
 
 ---
 
