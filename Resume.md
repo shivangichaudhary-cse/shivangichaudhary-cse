@@ -14,14 +14,26 @@ Computer Science and Engineering (AI/ML) undergraduate interested in software de
 
 ## Education
 
-### Meerut Institute of Engineering & Technology (M.I.E.T.)
-
-**B.Tech. in Computer Science and Engineering — Artificial Intelligence & Machine Learning**  
-*2026 – 2030*
-
-### Meerut Public Girls' School, Shastri Nagar (M.P.G.S.)
-
-**Senior Secondary — March 2026**
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <strong>Meerut Institute of Engineering & Technology (M.I.E.T.)</strong>
+      <br/>
+      B.Tech. in Computer Science and Engineering — Artificial Intelligence & Machine Learning
+      <br/><br/>
+      <strong>2026 – 2030</strong>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <strong>Meerut Public Girls' School, Shastri Nagar (M.P.G.S.)</strong>
+      <br/>
+      Senior Secondary
+      <br/><br/>
+      <strong>March 2026</strong>
+    </td>
+  </tr>
+</table>
 
 **Coursework:** Physics, Chemistry, Mathematics, English, Informatics Practices, Painting
 
