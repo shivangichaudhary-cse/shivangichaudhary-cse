@@ -12,6 +12,7 @@ Computer Science and Engineering (AI/ML) undergraduate interested in software de
 
 ---
 
+
 ## Education
 
 <table width="100%">
@@ -29,7 +30,7 @@ Computer Science and Engineering (AI/ML) undergraduate interested in software de
         B.Tech. in Computer Science and Engineering — Artificial Intelligence & Machine Learning
       </td>
       <td align="right" valign="top" nowrap>
-        <strong>2026 – 2030</strong>
+        <strong>August 2026 – 2030</strong>
       </td>
     </tr>
     <tr>
@@ -37,6 +38,8 @@ Computer Science and Engineering (AI/ML) undergraduate interested in software de
         <strong>Meerut Public Girls' School, Shastri Nagar (M.P.G.S.)</strong>
         <br/>
         Senior Secondary
+        <br/><br/>
+        <strong>Coursework:</strong> Physics, Chemistry, Mathematics, English, Informatics Practices, Painting
       </td>
       <td align="right" valign="top" nowrap>
         <strong>March 2026</strong>
@@ -44,8 +47,6 @@ Computer Science and Engineering (AI/ML) undergraduate interested in software de
     </tr>
   </tbody>
 </table>
-
-**Coursework:** Physics, Chemistry, Mathematics, English, Informatics Practices, Painting
 
 ---
 
