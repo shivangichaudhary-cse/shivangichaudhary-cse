@@ -8,7 +8,7 @@
 
 ## Professional Summary
 
-Computer Science and Engineering (AI/ML) undergraduate interested in software development, applied machine learning, and research. Combines structured technical problem-solving with practical experience in Python, data analysis, and visual design. Brings a research-oriented mindset and a strong interest in building useful, data-informed solutions.
+Computer Science and Engineering (AI/ML) undergraduate interested in software development, applied machine learning, and research. Combines structured technical problem-solving with practical experience in Python, data analysis, visual design, brand identity development, and marketing collateral. Brings a research-oriented mindset and a strong interest in building useful, data-informed solutions, while integrating technical and creative perspectives.
 
 ---
 
