@@ -11,38 +11,38 @@
 Computer Science and Engineering (AI/ML) undergraduate interested in software development, applied machine learning, and research. Combines structured technical problem-solving with practical experience in Python, data analysis, visual design, brand identity development, and marketing collateral. Brings a research-oriented mindset and a strong interest in building useful, data-informed solutions, while integrating technical and creative perspectives.
 
 ---
+
 ## Education
 
-<table>
-  <tr>
-    <td width="100%">
-      <strong>Meerut Institute of Engineering & Technology (M.I.E.T.)</strong>
-    </td>
-    <td align="right" nowrap>
-      <strong>2026 – 2030</strong>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      B.Tech. in Computer Science and Engineering — Artificial Intelligence & Machine Learning
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="100%">
-      <strong>Meerut Public Girls' School, Shastri Nagar (M.P.G.S.)</strong>
-    </td>
-    <td align="right" nowrap>
-      <strong>March 2026</strong>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      Senior Secondary
-    </td>
-  </tr>
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Institution & Qualification</th>
+      <th align="right">Year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong>Meerut Institute of Engineering & Technology (M.I.E.T.)</strong>
+        <br/>
+        B.Tech. in Computer Science and Engineering — Artificial Intelligence & Machine Learning
+      </td>
+      <td align="right" valign="top" nowrap>
+        <strong>2026 – 2030</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Meerut Public Girls' School, Shastri Nagar (M.P.G.S.)</strong>
+        <br/>
+        Senior Secondary
+      </td>
+      <td align="right" valign="top" nowrap>
+        <strong>March 2026</strong>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 **Coursework:** Physics, Chemistry, Mathematics, English, Informatics Practices, Painting
