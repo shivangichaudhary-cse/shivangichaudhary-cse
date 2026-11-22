@@ -41,7 +41,11 @@ First-year CSE (AI/ML) undergraduate who enjoys understanding *why* things work 
   <a href="mailto:eng.shivangichaudhary@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://github.com/shivangichaudhary-cse/shivangichaudhary-cse/blob/main/Resume.md">
+    <img src="https://img.shields.io/badge/Resume-View%20Resume-0F294A?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
+  </a>
 </p>
+
 
 ---
 
