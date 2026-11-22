@@ -1,0 +1,144 @@
+\documentclass[10pt,a4paper]{article}
+
+\usepackage[top=0.85cm, bottom=0.85cm, left=1.3cm, right=1.3cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{hyperref}
+
+\definecolor{navy}{HTML}{0F294A}
+\definecolor{slate}{HTML}{1E293B}
+
+\hypersetup{
+  colorlinks=true,
+  urlcolor=navy,
+  linkcolor=navy,
+  pdfborder={0 0 0}
+}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+
+% Section formatting inspired by Jake Gutierrez's template
+\titleformat{\section}{
+  \vspace{-5pt}\scshape\raggedright\normalsize\bfseries\color{navy}
+}{}{0em}{}[\color{navy}\titlerule \vspace{-5pt}]
+
+% Custom commands for clean structure
+\newcommand{\resumeSubheading}[4]{
+  \vspace{0.5pt}
+  \begin{tabular*}{\textwidth}[t]{l@{\extracolsep{\fill}}r}
+    \textbf{#1} & \color{navy}\small #2 \\
+    \textit{\small\color{slate}#3} & \textit{\small #4} \\
+  \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+  \vspace{0.5pt}
+  \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+    \small #1 & \color{navy}\small #2 \\
+  \end{tabular*}\vspace{-6pt}
+}
+
+\newcommand{\resumeItem}[1]{
+  \item\small{#1 \vspace{-2pt}}
+}
+
+\begin{document}
+
+%---------- HEADER ----------
+\begin{center}
+    {\LARGE \bfseries \scshape \color{navy} Shivangi Chaudhary} \\ \vspace{2pt}
+    \small
+    \href{mailto:eng.shivangichaudhary@gmail.com}{\color{navy}\underline{eng.shivangichaudhary@gmail.com}} $|$
+    \href{https://www.linkedin.com/in/shivangi-chaudhary-0013a0405/}{\color{navy}\underline{LinkedIn}} $|$
+    \href{https://github.com/shivangichaudhary-cse}{\color{navy}\underline{GitHub}}
+\end{center}
+\vspace{-10pt}
+
+%---------- PROFESSIONAL SUMMARY ----------
+\section{Professional Summary}
+\small{Computer Science and Engineering (AI/ML) undergraduate interested in software development, applied machine learning, and research. Combines structured technical problem-solving with practical experience in brand identity, graphic design, and marketing collateral.}
+
+%---------- EDUCATION ----------
+\section{Education}
+\resumeSubheading
+  {Meerut Institute of Engineering \& Technology (M.I.E.T.)}{2026 -- 2030}
+  {B.Tech. in Computer Science and Engineering --- Artificial Intelligence \& Machine Learning}{}
+\vspace{2pt}
+\begin{tabular*}{\textwidth}[t]{l@{\extracolsep{\fill}}r}
+  \textbf{Meerut Public Girls' School, Shastri Nagar (M.P.G.S.)} & \color{navy}\small March 2026 \\
+\end{tabular*}
+\vspace{1pt}
+{\small \textbf{\color{navy}Senior Secondary Coursework:} Physics, Chemistry, Mathematics, English, Informatics Practices, Painting}
+
+%---------- PROJECTS ----------
+\section{Projects}
+\resumeProjectHeading
+  {\textbf{Tourism \& Travel Management System} $|$ \emph{Python, Pandas, NumPy, Matplotlib} --- \href{https://github.com/shivangichaudhary-cse/Tourism-and-travel-management-system}{\textbf{\underline{GitHub}}}}{May 2025 -- Present}
+\begin{itemize}[leftmargin=0.16in, itemsep=1pt, topsep=2pt, parsep=0pt, label=\textbullet]
+  \resumeItem{Built a modular Python application using object-oriented design to manage tour, customer, booking, and guide records through structured CSV data.}
+  \resumeItem{Implemented stack-based session history, interactive navigation, custom exception handling, and input validation.}
+  \resumeItem{Utilized Pandas for data processing and Matplotlib for visual analysis of application records.}
+\end{itemize}
+
+\resumeProjectHeading
+  {\textbf{Golden Arcs --- Text-Based Detective Game} --- \href{https://github.com/shivangichaudhary-cse/Golden-Arcs}{\textbf{\underline{GitHub}}}}{July 2026 -- September 2026}
+\vspace{1pt}
+{\small\emph{\color{slate}Technologies: Python, OOP, Sets, Dictionaries, Lambda Functions}}
+\begin{itemize}[leftmargin=0.16in, itemsep=1pt, topsep=2pt, parsep=0pt, label=\textbullet]
+  \resumeItem{Developed an interactive detective game featuring room exploration, evidence collection, and suspect interactions.}
+  \resumeItem{Structured the application using object-oriented programming alongside sets and dictionaries to manage clues and investigation state.}
+  \resumeItem{Implemented function-based navigation and dynamic evaluation of player decisions.}
+\end{itemize}
+
+\resumeProjectHeading
+  {\textbf{Brand Identity \& Go-to-Market Design $|$ Shivangi Crockery}}{November 2023 -- January 2025}
+\begin{itemize}[leftmargin=0.16in, itemsep=1pt, topsep=2pt, parsep=0pt, label=\textbullet]
+  \resumeItem{Designed and launched the foundational visual identity and initial go-to-market materials for a local business startup.}
+  \resumeItem{Created the primary logo, supporting iconography, and a cohesive colour palette to establish consistent brand recognition.}
+  \resumeItem{Produced digital and print marketing collateral, social media launch graphics, and reusable promotional templates.}
+  \resumeItem{Collaborated directly with business leadership across design iterations, feedback cycles, and final asset delivery.}
+\end{itemize}
+
+%---------- TECHNICAL SKILLS ----------
+\section{Technical Skills}
+\begin{itemize}[leftmargin=0in, label={}]
+  \small{\item{
+    \textbf{\color{navy}Programming:} Python \\
+    \textbf{\color{navy}Libraries:} NumPy, Pandas, Matplotlib \\
+    \textbf{\color{navy}CS Fundamentals:} Object-Oriented Programming, Data Structures, Stacks, Sets, Dictionaries, Exception Handling \\
+    \textbf{\color{navy}Developer Tools:} Git, GitHub, VS Code, Jupyter Notebook, Google Colab \\
+    \textbf{\color{navy}Design:} Canva, Figma, Graphic Design, Visual Identity Design, Marketing Collateral Creation
+  }}
+\end{itemize}
+
+%---------- CERTIFICATIONS ----------
+\section{Certifications}
+\begin{itemize}[leftmargin=0in, label={}]
+  \small{\item{
+    \textbf{\color{navy}IBM SkillsBuild:} Machine Learning Methods and Tools; Artificial Intelligence Fundamentals; Getting Started with Cybersecurity; Lab: Troubleshoot Your Code Using IBM Bob; Getting Started with Artificial Intelligence \\
+    \textbf{\color{navy}Canva:} Meet Canva Visual Suite; Canva Essentials; Graphic Design Essentials \\
+    \textbf{\color{navy}Kaggle:} Intro to AI Ethics
+  }}
+\end{itemize}
+
+%---------- CURRENT LEARNING ----------
+\section{Current Learning}
+\small{Currently pursuing Harvard's CS50 (ongoing) and continuing independent learning in programming, data structures, and machine learning fundamentals.}
+
+%---------- LANGUAGES & INTERESTS ----------
+\section{Languages \& Interests}
+\begin{itemize}[leftmargin=0in, label={}]
+  \small{\item{
+    \textbf{\color{navy}Languages:} English --- Proficient; Hindi --- Proficient; Japanese --- Beginner, currently learning \\
+    \textbf{\color{navy}Analytical Interests:} Chess, Sudoku, Logic Puzzles \\
+    \textbf{\color{navy}Creative \& Personal Interests:} Digital Art, Graphic Design, Photography, Reading, Gardening
+  }}
+\end{itemize}
+
+\end{document}
