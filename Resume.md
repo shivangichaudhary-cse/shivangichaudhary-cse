@@ -37,9 +37,7 @@ Computer Science and Engineering (AI/ML) undergraduate interested in software de
       <td>
         <strong>Meerut Public Girls' School, Shastri Nagar (M.P.G.S.)</strong>
         <br/>
-        Senior Secondary
-        <br/><br/>
-        <strong>Coursework:</strong> Physics, Chemistry, Mathematics, English, Informatics Practices, Painting
+        Senior Secondary — Coursework: Physics, Chemistry, Mathematics, English, Informatics Practices, Painting
       </td>
       <td align="right" valign="top" nowrap>
         <strong>March 2026</strong>
@@ -47,6 +45,7 @@ Computer Science and Engineering (AI/ML) undergraduate interested in software de
     </tr>
   </tbody>
 </table>
+
 
 ---
 
