@@ -1,4 +1,3 @@
-
 # Shivangi Chaudhary
 
 **Computer Science and Engineering (AI/ML) Undergraduate**
@@ -9,22 +8,29 @@
 
 ## Professional Summary
 
-Computer Science and Engineering (AI/ML) undergraduate interested in software development, applied machine learning, and research. Combines structured technical problem-solving with practical experience in brand identity, graphic design, and marketing collateral.
+Computer Science and Engineering (AI/ML) undergraduate interested in software development, applied machine learning, and research. Combines structured technical problem-solving with practical experience in Python, data analysis, and visual design. Brings a research-oriented mindset and a strong interest in building useful, data-informed solutions.
+
+---
 
 ## Education
 
-**Meerut Institute of Engineering & Technology (M.I.E.T.)**  
-*B.Tech. in Computer Science and Engineering — Artificial Intelligence & Machine Learning*  
-2026 – 2030
+### Meerut Institute of Engineering & Technology (M.I.E.T.)
 
-**Meerut Public Girls' School, Shastri Nagar (M.P.G.S.)**  
-Senior Secondary — March 2026
+**B.Tech. in Computer Science and Engineering — Artificial Intelligence & Machine Learning**  
+*2026 – 2030*
+
+### Meerut Public Girls' School, Shastri Nagar (M.P.G.S.)
+
+**Senior Secondary — March 2026**
 
 **Coursework:** Physics, Chemistry, Mathematics, English, Informatics Practices, Painting
+
+---
 
 ## Projects
 
 ### 1. Tourism & Travel Management System
+
 *Python · Pandas · NumPy · Matplotlib*
 
 [View Project on GitHub](https://github.com/shivangichaudhary-cse/Tourism-and-travel-management-system)
@@ -36,6 +42,7 @@ Senior Secondary — March 2026
 - Utilized Pandas for data processing and Matplotlib for visual analysis of application records.
 
 ### 2. Golden Arcs — Text-Based Detective Game
+
 *Python · OOP · Sets · Dictionaries · Lambda Functions*
 
 [View Project on GitHub](https://github.com/shivangichaudhary-cse/Golden-Arcs)
@@ -55,6 +62,8 @@ Senior Secondary — March 2026
 - Produced digital and print marketing collateral, social media launch graphics, and reusable promotional templates.
 - Collaborated directly with business leadership across design iterations, feedback cycles, and final asset delivery.
 
+---
+
 ## Technical Skills
 
 | Category | Skills |
@@ -65,30 +74,40 @@ Senior Secondary — March 2026
 | Developer Tools | Git, GitHub, VS Code, Jupyter Notebook, Google Colab |
 | Design | Canva, Figma, Graphic Design, Visual Identity Design, Marketing Collateral Creation |
 
+---
+
 ## Certifications
 
-**IBM SkillsBuild**
+### IBM SkillsBuild
+
 - Machine Learning Methods and Tools
 - Artificial Intelligence Fundamentals
 - Getting Started with Cybersecurity
 - Lab: Troubleshoot Your Code Using IBM Bob
 - Getting Started with Artificial Intelligence
 
-**Canva**
+### Canva
+
 - Meet Canva Visual Suite
 - Canva Essentials
 - Graphic Design Essentials
 
-**Kaggle**
+### Kaggle
+
 - Intro to AI Ethics
+
+---
 
 ## Current Learning
 
 Currently pursuing Harvard's CS50 (ongoing) and continuing independent learning in programming, data structures, and machine learning fundamentals.
 
+---
+
 ## Languages & Interests
 
-**Languages**
+### Languages
+
 - English — Proficient
 - Hindi — Proficient
 - Japanese — Beginner, currently learning
